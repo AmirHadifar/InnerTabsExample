@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#e62117</color>
+    <color name="colorPrimaryDark">#ba1b12</color>
+    <color name="colorAccent">#D50000</color>
+
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#F44336</color>
+    <color name="blue_gray">#353342</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="gray_lightest">#fafafa</color>
+    <color name="gray_lighter">#eeeeee</color>
+    <color name="gray_light">#bdbdbd</color>
+    <color name="gray_darker">#424242</color>
+    <color name="gray_darkest">#212121</color>
+
+    <color name="white_gray">#e9eaec</color>
+
+    <color name="black_light">#212121</color>
+    <color name="black_lighter">#424242</color>
+    <color name="black_lightest">#727272</color>
+
+    <color name="red_lightest">#EF5350</color>
+    <color name="red_lighter">#F44336</color>
+    <color name="red_light">#E53935</color>
+    <color name="red_darker">#C62828</color>
+    <color name="red_darkest">#B71C1C</color>
+
+    <color name="black_transparent_70">#b2000000</color>
+    <color name="black_transparent_65">#a5000000</color>
+    <color name="black_transparent_60">#9a000000</color>
+    <color name="black_transparent_50">#7f000000</color>
+    <color name="black_transparent_38">#70000000</color>
+    <color name="black_transparent_30">#4c000000</color>
+    <color name="black_transparent_17">#22000000</color>
+    <color name="black_transparent_7">#12000000</color>
+
+    <color name="white_transparent_90">#e1ffffff</color>
+    <color name="white_transparent_60">#bfffffff</color>
+    <color name="white_transparent_30">#5affffff</color>
+    <color name="white_transparent_15">#26ffffff</color>
+    <color name="white_transparent_5">#11ffffff</color>
+
+
+    <color name="c_drawer_home">#3498DB</color>
+    <color name="c_drawer_categories">#694DB2</color>
+    <color name="c_drawer_latest_video">#27AE60</color>
+    <color name="c_drawer_popular_video">#A2125B</color>
+    <color name="c_drawer_most_liked_video">#C0392B</color>
+    <color name="c_drawer_downloads">#D35400</color>
+    <color name="c_drawer_feedback">#f1c40f</color>
+    <color name="c_drawer_vote">#880E4F</color>
+    <color name="c_drawer_about">#2c3e50</color>
+
+
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="red_special">#f1615e</color>
+
+
+    <array name="cp_colors_red">
+        <item>#b71c1c</item>
+        <item>#e62117</item>
+        <item>#f44336</item>
+    </array>
+
+    <array name="cp_colors_white">
+        <item>@color/gray_light</item>
+        <item>@color/gray_lighter</item>
+        <item>@color/gray_lightest</item>
+    </array>
+
+    <array name="cp_colors_gray">
+        <item>@color/gray_light</item>
+        <item>@color/gray_light</item>
+        <item>#bdbdbd</item>
+    </array>
+
+
+
+    <!--default selector colors-->
+    <color name="selector_background">#fafafa</color>
+    <color name="selector_pressed">#757575</color>
+    <color name="selector_activated">#CFE9F3</color>
+
+
+    <!-- media player-->
+    <color name="biz_audio_progress_bg">#D50000</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+
+    <color name="default_bg">#aa000000</color>
+    <color name="select_color">#D50000</color>
+    <color name="normal_color">#ffffffff</color>
+    <color name="divider_color">#55504a</color>
+    <color name="deep_dark">#323232</color>
+
+</resources>
